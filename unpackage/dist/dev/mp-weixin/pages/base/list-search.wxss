@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*关键词搜索*/
+.item{
+	padding: 20rpx;
+}
+.tip{
+	font-size: 30rpx;
+	vertical-align: middle;
+}
+.hot-word{
+	font-size: 24rpx;
+	margin-left: 30rpx;
+	padding: 6rpx 40rpx;
+	border: 2rpx solid #FF6990;
+	border-radius: 100rpx;
+	vertical-align: middle;
+	color: #FF6990;
+}
+.word-input{
+	display: inline-block;
+	width: 60%;
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 24rpx;
+	margin-left: 30rpx;
+	border: 2rpx solid #18B4FE;
+	border-radius: 60rpx;
+	text-align: center;
+	background-color: #fff;
+	vertical-align: middle;
+}
+

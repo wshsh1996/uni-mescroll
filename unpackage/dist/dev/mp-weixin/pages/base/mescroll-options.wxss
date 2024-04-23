@@ -1,0 +1,15 @@
+
+.tip{
+	font-size: 28rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+}
+.sticky-tabs{
+	z-index: 990;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	background-color: #fff;
+}
+

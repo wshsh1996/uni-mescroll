@@ -1,0 +1,11 @@
+
+page{background-color: #fff}
+view,
+text,
+image,
+input,
+textarea {
+	box-sizing: border-box;
+}
+image{will-change: transform;}
+

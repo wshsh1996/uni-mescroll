@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "mescroll-body写在子组件",
+  "usingComponents": {
+    "mescroll-item": "/pages/base/mescroll-comp-center"
+  }
+}

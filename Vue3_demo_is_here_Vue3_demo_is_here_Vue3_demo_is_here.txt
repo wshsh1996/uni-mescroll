@@ -1,0 +1,2 @@
+插件市场只能传一个示例工程,默认传了vue2的工程
+Vue3所有示例,支持setup写法,点此下载: https://mp-272ff133-de81-4122-b99a-c9110c0d8b94.cdn.bspapp.com/cloudstorage/5634329b-da4f-4ff6-991a-d88c8147fd51.zip

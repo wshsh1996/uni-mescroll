@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*说明*/
+.notice{
+	font-size: 30rpx;
+	padding: 40rpx 0;
+	border-bottom: 1rpx solid #eee;
+	text-align: center;
+}
+/*展示上拉加载的数据列表*/
+.news-li{
+	font-size: 32rpx;
+	padding: 32rpx;
+	border-bottom: 1rpx solid #eee;
+}
+.news-li .new-content{
+	font-size: 28rpx;
+	margin-top: 10rpx;
+	margin-left: 20rpx;
+	color: #666;
+}
+

@@ -1,0 +1,23 @@
+
+.group-title {
+	font-size: 30rpx;
+	padding: 24rpx;
+	border-bottom: 1rpx solid #eee;
+	color: red;
+}
+.demo-li {
+	font-size: 28rpx;
+	padding: 24rpx;
+	border-bottom: 1rpx solid #eee;
+	color: #18B4FE;
+}
+.demo-li.disable{
+	color: gray;
+}
+.demo-li .demo-tip {
+	float: right;
+	margin-top: 4rpx;
+	font-size: 24rpx;
+	color: gray;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "sticky吸顶悬浮 (mescroll-uni使用sticky)",
+  "usingComponents": {
+    "mescroll-uni": "/uni_modules/mescroll-uni/components/mescroll-uni/mescroll-uni",
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "good-list": "/components/good-list/good-list"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "mescroll-more",
+  "usingComponents": {
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "mescroll-item": "/pages/base/mescroll-more-item"
+  }
+}

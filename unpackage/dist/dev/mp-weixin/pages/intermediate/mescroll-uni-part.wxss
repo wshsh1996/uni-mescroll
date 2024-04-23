@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/*根元素需要有固定的高度*/
+page {
+  height: 100%;
+  /*需给父元素设置height:100%*/
+}
+page .page-warp {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* 顶部区域 */
+  /* 中间 */
+  /* 底部区域 */
+}
+page .page-warp .top-warp {
+  font-size: 28rpx;
+  padding: 20rpx;
+  text-align: center;
+  background-color: #CFE0DA;
+}
+page .page-warp .center-warp {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  /* 需给flex:1的元素加上最小高,否则内容超过会溢出容器 (如:小程序Android真机) */
+  border: 4px solid red;
+  display: flex;
+}
+page .page-warp .center-warp .left-warp {
+  width: 180rpx;
+  height: 100%;
+  background-color: #eee;
+}
+page .page-warp .center-warp .left-warp .tab {
+  font-size: 28rpx;
+  padding: 28rpx;
+}
+page .page-warp .center-warp .left-warp .tab.active {
+  background-color: #fff;
+}
+page .page-warp .center-warp .right-warp {
+  flex: 1;
+  min-width: 0;
+}
+page .page-warp .bottom-warp {
+  padding: 20rpx;
+  text-align: center;
+  background-color: #FF6990;
+}
+

@@ -1,0 +1,1 @@
+<view><view class="notice-warp"><view class="notice">mescroll-body是原生页面的滚动,子组件无页面生命周期</view><view class="notice">需通过mescroll-comp.js给子组件补充页面生命周期</view></view><mescroll-item class="vue-ref" vue-id="07a15cd4-1" data-ref="mescrollItem" bind:__l="__l"></mescroll-item></view>

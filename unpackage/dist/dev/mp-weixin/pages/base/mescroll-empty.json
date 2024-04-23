@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "单独使用mescroll-empty",
+  "usingComponents": {
+    "mescroll-empty": "/uni_modules/mescroll-uni/components/mescroll-empty/mescroll-empty"
+  }
+}

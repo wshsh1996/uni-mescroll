@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "贝贝 mescroll-beibei.vue",
+  "usingComponents": {
+    "good-list": "/components/good-list/good-list",
+    "mescroll-body-diy": "/uni_modules/mescroll-uni/components/mescroll-diy/beibei/mescroll-body"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "新浪微博 mescroll-xinlang.vue",
+  "usingComponents": {
+    "mescroll-body-diy": "/uni_modules/mescroll-uni/components/mescroll-diy/xinlang/mescroll-body"
+  }
+}

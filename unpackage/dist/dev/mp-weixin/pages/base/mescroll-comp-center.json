@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mescroll-item": "/pages/base/mescroll-comp-item"
+  }
+}

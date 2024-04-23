@@ -1,0 +1,1 @@
+<mescroll-body vue-id="ab5b1df0-1" top="100" data-event-opts="{{[['^init',[['mescrollInit']]],['^down',[['downCallback']]],['^up',[['upCallback']]]]}}" bind:init="__e" bind:down="__e" bind:up="__e" bind:__l="__l" vue-slots="{{['default']}}"><good-list vue-id="{{('ab5b1df0-2')+','+('ab5b1df0-1')}}" list="{{goods}}" bind:__l="__l"></good-list></mescroll-body>

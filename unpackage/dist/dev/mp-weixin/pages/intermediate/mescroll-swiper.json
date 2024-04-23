@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "轮播菜单导航 mescroll-swiper.vue",
+  "disableScroll": true,
+  "usingComponents": {
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "mescroll-item": "/pages/intermediate/mescroll-swiper-item"
+  }
+}

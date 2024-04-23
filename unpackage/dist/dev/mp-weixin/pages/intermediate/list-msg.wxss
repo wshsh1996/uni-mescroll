@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* 无更多消息 */
+.msg-end {
+  padding: 40rpx 0;
+  font-size: 24rpx;
+  text-align: center;
+  color: #FF8095;
+}
+/*消息列表*/
+.msg {
+  margin: 30rpx;
+}
+.msg.right {
+  text-align: right;
+}
+.msg.left {
+  text-align: left;
+}
+.msg .msg-warp {
+  width: 50%;
+  display: inline-block;
+  padding: 30rpx;
+  border-radius: 30rpx;
+  background-color: #FF8095;
+  color: #fff;
+}
+.msg .msg-warp .msg-title {
+  margin-left: -12rpx;
+  font-size: 32rpx;
+  text-align: left;
+}
+.msg .msg-warp .msg-content {
+  font-size: 26rpx;
+  margin-top: 10rpx;
+  text-align: left;
+}
+

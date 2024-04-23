@@ -1,0 +1,1 @@
+<view><block wx:if="{{$root.g0}}"><view></view></block><block wx:else><mescroll-empty vue-id="33c72dcc-1" option="{{emptyOption}}" data-event-opts="{{[['^emptyclick',[['emptyClick']]]]}}" bind:emptyclick="__e" bind:__l="__l"></mescroll-empty></block></view>

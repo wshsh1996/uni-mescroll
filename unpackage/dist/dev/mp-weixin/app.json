@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/base/list-news",
+    "pages/base/list-products",
+    "pages/base/mescroll-options",
+    "pages/base/mescroll-comp",
+    "pages/base/mescroll-i18n",
+    "pages/base/mescroll-one",
+    "pages/base/mescroll-more",
+    "pages/base/list-search",
+    "pages/base/mescroll-empty",
+    "pages/base/mescroll-native",
+    "pages/base/mescroll-uni",
+    "pages/intermediate/list-msg",
+    "pages/intermediate/sticky",
+    "pages/intermediate/sticky-data",
+    "pages/intermediate/sticky-scroll",
+    "pages/intermediate/sticky-scroll-data",
+    "pages/intermediate/sticky-uni",
+    "pages/intermediate/mescroll-uni-part",
+    "pages/intermediate/mescroll-body-part",
+    "pages/intermediate/mescroll-swiper",
+    "pages/intermediate/mescroll-swiper-sticky",
+    "pages/intermediate/beibei",
+    "pages/intermediate/xinlang"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundColorTop": "#FFFFFF",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff"
+  },
+  "usingComponents": {}
+}

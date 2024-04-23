@@ -1,0 +1,7 @@
+
+.demo-tip{
+	padding: 18rpx;
+	font-size: 24rpx;
+	text-align: center;
+}
+

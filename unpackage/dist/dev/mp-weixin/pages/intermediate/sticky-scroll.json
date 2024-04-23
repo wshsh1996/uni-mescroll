@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "sticky吸顶悬浮 (切换刷新列表,监听滚动实现)",
+  "usingComponents": {
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "good-list": "/components/good-list/good-list"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "吸顶轮播菜单导航",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "mescroll-item": "/pages/intermediate/mescroll-swiper-sticky-item"
+  }
+}

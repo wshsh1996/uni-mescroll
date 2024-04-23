@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "mescroll-options",
+  "backgroundColorTop": "#E75A7C",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "me-video": "/components/me-video/me-video",
+    "good-list": "/components/good-list/good-list"
+  }
+}

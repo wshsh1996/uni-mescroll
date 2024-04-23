@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "sticky吸顶悬浮 (缓存列表数据,原生css实现)",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "me-tabs": "/components/me-tabs/me-tabs",
+    "good-list": "/components/good-list/good-list"
+  }
+}

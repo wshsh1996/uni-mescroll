@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "list-news",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body"
+  }
+}
